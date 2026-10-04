@@ -38,22 +38,22 @@ Todo o projeto roda num único arquivo HTML, direto no navegador, sem instalaç�
 ## Capturas de tela
 
 <p align="center">
-  <img src="docs/screenshots/01-bancada.png" alt="Bancada com circuito energizado, inversor e motor" width="820"><br>
+  <img src="inverterlab_simulador-ad600m/docs/screenshots/01-bancada.png" alt="Bancada com circuito energizado, inversor e motor" width="820"><br>
   <em>Bancada de montagem — circuito de partida direta energizado, com o caminho da corrente destacado.</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/02-ihm.png" alt="IHM do inversor Altus AD600M" width="820"><br>
+  <img src="inverterlab_simulador-ad600m/docs/screenshots/02-ihm.png" alt="IHM do inversor Altus AD600M" width="820"><br>
   <em>IHM & Parâmetros — réplica do teclado físico, navegação por grupos e busca rápida de parâmetros.</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/03-osciloscopio.png" alt="Osciloscópio com gráficos em tempo real" width="820"><br>
+  <img src="inverterlab_simulador-ad600m/docs/screenshots/03-osciloscopio.png" alt="Osciloscópio com gráficos em tempo real" width="820"><br>
   <em>Osciloscópio — frequência, corrente, tensão e velocidade do motor em tempo real.</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/04-exercicios.png" alt="Biblioteca de exercícios guiados" width="820"><br>
+  <img src="inverterlab_simulador-ad600m/docs/screenshots/04-exercicios.png" alt="Biblioteca de exercícios guiados" width="820"><br>
   <em>Exercícios guiados com verificação automática de objetivo.</em>
 </p>
 
