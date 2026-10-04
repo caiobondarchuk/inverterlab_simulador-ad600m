@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://caiobondarchuk.github.io/inverterlab_simulador-ad600m/">Acessar o InverterLab »</a>
+  <a href="https://caiobondarchuk.github.io/inverterlab_simulador-ad600m/" target="_blank">Acessar o InverterLab »</a>
 
 ---
 
