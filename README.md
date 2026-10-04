@@ -114,4 +114,6 @@ Desenvolvido por:
 
 ## Licença
 
-<!-- defina a licença do projeto aqui, por exemplo MIT, e adicione o arquivo LICENSE correspondente -->
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+Copyright (c) 2026 Caio Bondarchuk and Breno Rossi
