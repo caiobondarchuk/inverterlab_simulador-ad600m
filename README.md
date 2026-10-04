@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/logo.png" alt="InverterLab" width="360">
+  <img src="inverterlab_simulador-ad600m/docs/screenshots/logo.png" alt="InverterLab" width="360">
 </p>
 
 <p align="center">
