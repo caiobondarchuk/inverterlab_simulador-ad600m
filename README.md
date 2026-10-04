@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="#">Acessar o InverterLab »</a>
-  <!-- troque o link acima pela URL do GitHub Pages assim que o repositório estiver publicado -->
-</p>
+  <a href="https://caiobondarchuk.github.io/inverterlab_simulador-ad600m/">Acessar o InverterLab »</a>
 
 ---
 
@@ -61,13 +59,12 @@ Todo o projeto roda num único arquivo HTML, direto no navegador, sem instalaç�
 
 Não é necessário instalar nada. Basta abrir o `index.html` em qualquer navegador moderno (Chrome, Edge, Firefox) — ou acessar a versão publicada:
 
-**[Acessar o InverterLab online »](#)**
-<!-- substitua pelo link do GitHub Pages -->
+**[Acessar o InverterLab online »](https://caiobondarchuk.github.io/inverterlab_simulador-ad600m/)**
 
 Para rodar localmente a partir do repositório clonado, qualquer servidor estático funciona, por exemplo:
 
 ```bash
-git clone https://github.com/caiobondarchuk/inverterlab.git
+git clone https://github.com/caiobondarchuk/inverterlab_simulador-ad600m
 cd inverterlab
 python3 -m http.server 8080
 # depois abra http://localhost:8080 no navegador
@@ -78,7 +75,7 @@ python3 -m http.server 8080
 ## Estrutura do projeto
 
 ```
-inverterlab/
+inverterlab_simulador-ad600m/
 ├── index.html              # aplicação completa (HTML + CSS + JS em um único arquivo)
 ├── manifest.webmanifest     # manifesto PWA (ícone, nome, cores)
 ├── sw.js                    # Service Worker — habilita uso offline
